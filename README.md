@@ -31,3 +31,4 @@ __Technologies used include__:
 - Remix IDE (https://remix.ethereum.org/)
 - Webstorm IDE (with Solidity plugin) (https://www.jetbrains.com/webstorm/)
 
+Contact me: brianmacdermott@protonmail.com
