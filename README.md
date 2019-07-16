@@ -17,3 +17,17 @@ exact details of what it will be spent on.
 - A majority of contributors must then approve a request in order for the requested
 amount to be released to the creator.
 
+__Technologies used include__:
+
+- Javascript
+- Solidity (https://solidity.readthedocs.io/en/v0.5.10/)
+- Metamask (https://metamask.io/)
+- Web3.js (https://github.com/ethereum/web3.js/)
+- Infura (https://infura.io/)
+- Ganache (https://www.trufflesuite.com/ganache)
+- Mocha (https://mochajs.org/)
+- Chai (https://www.chaijs.com/)
+- React (https://reactjs.org/)
+- Remix IDE (https://remix.ethereum.org/)
+- Webstorm IDE (with Solidity plugin) (https://www.jetbrains.com/webstorm/)
+
