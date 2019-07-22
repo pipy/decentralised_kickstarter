@@ -19,7 +19,8 @@ amount to be released to the creator.
 
 __Technologies used include__:
 
-- Javascript
+- Javascript (ES6+)
+- NodeJS (https://nodejs.org/en/)
 - Solidity (https://solidity.readthedocs.io/en/v0.5.10/)
 - Metamask (https://metamask.io/)
 - Web3.js (https://github.com/ethereum/web3.js/)
